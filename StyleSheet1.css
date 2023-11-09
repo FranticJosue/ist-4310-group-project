@@ -33,17 +33,19 @@ nav a {
     padding-left:15px;
     padding-right:15px;
 }
-h1{
-    text-align:center;
-    color:white;
-    font-size:60px;
-    margin-top:auto;
+h1 {
+    background-color: rgba(0, 0, 0, 0.338);
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin-top: auto;
 }
-h2{
-    text-align:center;
-    color:white;
-    font-size:40px;
-    margin-top:auto;
+h2 {
+    background-color: rgba(0, 0, 0, 0.338);
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: auto;
 }
 
 .logo {
